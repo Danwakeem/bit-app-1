@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main className="container mx-auto">
-        <Hero title="hi daddy" />
+        <Hero title="hi brother man" />
       </main>
     </div>
   )
